@@ -1,0 +1,14 @@
+HTTrack3.47-27+htsswf+htsjava launched on Mon, 24 Jun 2019 14:13:12 at https://controller.access.network/101/portal/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2013], %s -->" -%l "fr, en, *" https://controller.access.network/101/portal/ -O1 "C:\Users\William\Desktop\Projet Alpha\Projet Alpha" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:13:13	Warning: 	Found for https://controller.access.network/robots.txt
+14:13:13	Warning: 	File has moved from https://controller.access.network/robots.txt to https://controller.access.network/?dst=NO_URL&user_ip=172.16.97.147
+14:14:28	Warning: 	Retry after error -4 (Connect Error) at link https://controller.access.network/101/portal/resources/_images/paypal.png (from https://controller.access.network/101/portal/)
+
+HTTrack Website Copier/3.47-27 mirror complete in 1 minutes 16 seconds : 48 links scanned, 46 files written (976095 bytes overall) [988863 bytes received at 13011 bytes/sec], 1.1 requests per connection
+(No errors, 3 warnings, 0 messages)
