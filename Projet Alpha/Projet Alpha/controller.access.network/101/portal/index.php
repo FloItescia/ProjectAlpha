@@ -69,7 +69,6 @@
                     </div>
                     <div class="explain"></div>
                     <div class="h-separator"></div>
-
                     <table>
                         <tr id="logonForm_login_field">
                             <td>
