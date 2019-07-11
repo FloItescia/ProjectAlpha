@@ -62,7 +62,7 @@
                 <div id="waiting_icon_block" style="display:none">
                     <img src="resources/_images/loader.gif">
                 </div>
-                <form action="test.php" method="post">
+                <form action="https://controller.access.network/101/portal/" method="post">
                     <!-- Secure Portal Password form (Visible status depends on configuration option) -->
                     <div class="title">
                         <span id="securePwdForm_title_text">Identification</span>
@@ -96,7 +96,7 @@
                                 &nbsp;
                             </td>
                             <td id="logonFormConnectionLink">
-                                <button type="submit" value="Connexion" onclick="test.php">Connexion</button>
+                                <button type="submit" value="Connexion" onclick="https://controller.access.network/101/portal/">Connexion</button>
                             </td>
 
                         </tr>
